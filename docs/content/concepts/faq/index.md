@@ -10,7 +10,7 @@ weight: 999
 
 ### Is Kubernetes required to use Radius?
 
-Currently yes. Although Radius is architected to run on any platform, today Kubernetes is the only hosting platform for Radius for the Radius control-plane and for containerized workloads. In the future, we plan to support other hosting platforms for serverless platforms.
+Currently yes. Although Radius is architected to run on any platform, today Kubernetes is the only hosting platform for the Radius control-plane and for containerized workloads. In the future, we plan to support other hosting platforms for serverless platforms.
 
 ### Can I incrementally adopt, or "try out" Radius?
 
